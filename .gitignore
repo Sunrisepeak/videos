@@ -34,3 +34,6 @@
 # other
 .xmake
 build
+__pycache__
+.vscode
+media
